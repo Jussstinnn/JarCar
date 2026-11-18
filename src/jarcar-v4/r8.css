@@ -1,0 +1,34 @@
+/* R8 — finished storefront polish; no speculative services or placeholder banners. */
+.ja-header-actions::after{content:"PAVAS · SAN JOSÉ";font-size:9px;letter-spacing:.11em}
+.ja-footer-base{font-size:12px}
+.ja-footer-main nav a:hover,.ja-footer-address>a:hover{color:var(--accent)}
+.ja-visit-intro{gap:clamp(26px,5vw,78px)}
+.ja-visit-lede h1{font-size:clamp(68px,7.3vw,130px);line-height:.87;letter-spacing:-.07em}
+.ja-visit-lede::before{content:"DÓNDE ESTAMOS  /  JARCAR MOTORS";display:block;margin:0 0 22px;color:#71816f;font:800 11px/1.35 var(--body);letter-spacing:.15em}
+.ja-visit-map-button{background:var(--ink);color:var(--white)}
+.ja-visit-inquiry-intro h2{max-width:12ch;letter-spacing:-.065em}
+.ja-visit-inquiry-intro p{max-width:43ch}
+.ja-visit-draft{border-radius:0;box-shadow:0 20px 40px #08130b20}
+.ja-visit-draft textarea:focus,.ja-visit-draft select:focus{outline:2px solid #627b4e;outline-offset:2px}
+.ja-visit-whatsapp{background:#e3edc6}
+.ja-visit-inquiry{background:#17241c}
+.ja-c-grid[data-opening='true'] .ja-cc:first-child .ja-cc-info{min-width:0}
+.ja-c-grid[data-opening='true'] .ja-cc:first-child .ja-cc-details{min-width:0;max-width:100%}
+.ja-c-grid[data-opening='true'] .ja-cc:first-child .ja-cc-details strong{display:block;max-width:100%;font-size:clamp(23px,2.1vw,34px);line-height:1.1;letter-spacing:-.06em;overflow-wrap:anywhere;word-break:normal}
+.ja-cc-details strong{overflow-wrap:anywhere}
+.ja-cc h2{overflow-wrap:break-word}
+.jd-heading{align-items:end}.jd-price-block strong{overflow-wrap:anywhere}
+.jd-publication.j8-detail-story{background:#e3e5d8;border-radius:0;display:grid;grid-template-columns:minmax(0,.78fr) minmax(0,1.2fr);gap:clamp(22px,5vw,95px);padding:clamp(30px,4.2vw,72px);margin-top:clamp(45px,6vw,85px)}
+.j8-detail-story .jd-publication-aside h2{font:800 clamp(43px,5.1vw,81px)/.92 var(--display);letter-spacing:-.07em;margin:18px 0 27px}
+.j8-detail-story .jd-publication-aside h2 em{font:italic 400 1.04em var(--serif);color:#758767}
+.j8-detail-story .jd-publication-aside p{font:500 16px/1.6 var(--body);color:#576657;margin:0 0 27px}
+.j8-detail-story-link{display:inline-flex;gap:12px;align-items:center;min-height:44px;border-bottom:1px solid #526c58;color:#14201a;text-decoration:none;font:750 13px/1.2 var(--body)}
+.j8-detail-story-body{min-width:0;border-top:1px solid #b9c4b5;padding-top:23px}.j8-detail-story-body .jd-publication-state{margin-bottom:22px;background:#f6f6ef}
+.j8-detail-description{display:grid;gap:13px;margin:15px 0 5px}
+.j8-detail-description p{font:530 clamp(15px,1.3vw,19px)/1.62 var(--body);color:#425347;max-width:75ch}
+.j8-detail-story-body .jd-publication-highlights{margin:0 0 22px}
+.j8-detail-story .jd-publication-aside{min-width:0}
+.jd-detail .jd-facts>div{transition:background .2s}.jd-detail .jd-facts>div:hover{background:#d3d9c9}
+@media(max-width:960px){.ja-header-actions::after{display:none}.jd-publication.j8-detail-story{grid-template-columns:1fr}.j8-detail-story .jd-publication-aside h2{max-width:12ch}}
+@media(max-width:680px){.ja-visit-intro{padding-top:38px}.ja-visit-lede h1{font-size:clamp(65px,14vw,96px)}.ja-visit-inquiry-intro h2{font-size:clamp(45px,10vw,62px)}.jd-publication.j8-detail-story{padding:24px 21px}.j8-detail-story .jd-publication-aside h2{font-size:clamp(45px,10vw,67px)}}
+@media print{.j8-map,.j8-about-location-top,.j8-about-hero-letter{display:none!important}}

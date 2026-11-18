@@ -1,0 +1,379 @@
+.ja-visit-intro {
+  display: grid;
+  grid-template-columns: minmax(0, .77fr) minmax(0, 1.23fr);
+  align-items: center;
+  gap: clamp(1.75rem, 4.9vw, 5.5rem);
+  padding-block: clamp(3.5rem, 7vw, 7.25rem);
+}
+
+.ja-visit-lede h1 {
+  margin: 0 0 clamp(1.5rem, 3.4vw, 3rem);
+  font: 650 clamp(4.4rem, 8.3vw, 8.8rem)/.82 var(--display);
+  letter-spacing: -.056em;
+}
+
+.ja-visit-address {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  align-items: start;
+  gap: .75rem;
+  max-width: 26rem;
+  color: var(--muted);
+  font-size: clamp(1rem, 1.25vw, 1.16rem);
+  font-style: normal;
+  line-height: 1.5;
+}
+
+.ja-visit-address > svg {
+  margin-block-start: .14rem;
+  color: var(--ink);
+}
+
+.ja-visit-address strong { color: var(--ink); }
+
+.ja-visit-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: .75rem 1.25rem;
+  margin-top: clamp(1.5rem, 3vw, 2.3rem);
+}
+
+.ja-visit-actions .ja-visit-map-button { white-space: nowrap; }
+
+.ja-visit-jump {
+  display: inline-flex;
+  width: fit-content;
+  min-height: 44px;
+  align-items: center;
+  gap: .36rem;
+  color: inherit;
+  font-weight: 650;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: .24em;
+}
+
+.ja-visit-jump:hover { text-decoration-thickness: 2px; }
+
+.ja-visit-map {
+  margin: 0;
+  min-width: 0;
+  overflow: hidden;
+  border: 1px solid #bbc5b8;
+  border-radius: .8rem;
+  color: var(--ink);
+  background: var(--field);
+}
+
+.ja-visit-map-canvas {
+  position: relative;
+  aspect-ratio: 1080 / 728;
+  isolation: isolate;
+}
+
+.ja-visit-map-canvas > img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.ja-visit-map-canvas > :not(img) { position: absolute; }
+
+.ja-visit-north {
+  display: grid;
+  justify-items: center;
+  gap: .16rem;
+  top: 5%;
+  right: 5%;
+  padding: .52rem .63rem;
+  border: 1px solid #c6cfc3;
+  border-radius: .36rem;
+  background: var(--paper);
+  font-size: .7rem;
+  font-weight: 650;
+  line-height: 1;
+}
+
+.ja-visit-avenue {
+  top: 44%;
+  left: 13%;
+  background: #f3f3eb;
+  border-radius: .17rem;
+  padding: .17rem .27rem;
+  color: #445549;
+  font-size: clamp(.65rem, 1.11vw, .875rem);
+  font-weight: 700;
+  line-height: 1;
+}
+
+.ja-visit-route-line {
+  top: 32.5%;
+  bottom: 34.7%;
+  left: 51.8%;
+  border-left: 2px dashed #364e3e;
+}
+
+.ja-visit-map-origin,
+.ja-visit-route-line::before {
+  height: .67rem;
+  width: .67rem;
+  border: 2px solid #f7f7f0;
+  border-radius: 50%;
+  background: #273f32;
+  box-shadow: 0 0 0 1px #273f32;
+}
+
+.ja-visit-map-origin {
+  top: 65.3%;
+  left: 51.8%;
+  transform: translate(-43%, -50%);
+}
+
+.ja-visit-route-line::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: -2px;
+  transform: translate(-43%, -50%);
+  background: var(--accent);
+}
+
+.ja-visit-map-origin-name {
+  top: 67.8%;
+  right: 49%;
+  padding: .35em .52em;
+  border-radius: .22rem;
+  background: var(--paper);
+  font-size: clamp(.66rem, 1.05vw, .88rem);
+  font-weight: 750;
+  line-height: 1.07;
+}
+
+.ja-visit-map-destination {
+  display: grid;
+  gap: .16em;
+  top: 32.5%;
+  left: 55%;
+  padding: .58em .75em .61em;
+  transform: translateY(-50%);
+  border: 1px solid #1b3324;
+  border-radius: .3rem;
+  color: #18281d;
+  background: var(--accent);
+  font: 750 clamp(.86rem, 1.75vw, 1.48rem)/1 var(--display);
+  white-space: nowrap;
+}
+
+.ja-visit-map-destination small {
+  font: 650 .64em/1.22 var(--body);
+  letter-spacing: .01em;
+}
+
+.ja-visit-map figcaption {
+  display: flex;
+  justify-content: space-between;
+  gap: .4rem 1rem;
+  padding: .66rem .9rem;
+  border-top: 1px solid #bbc5b8;
+  background: #edf0e7;
+  font: 650 clamp(.68rem, 1vw, .81rem)/1.3 var(--body);
+}
+
+.ja-visit-map figcaption a {
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.ja-visit-inquiry {
+  scroll-margin-top: 5rem;
+  padding-block: clamp(3.5rem, 6.8vw, 6.5rem);
+  background: #203328;
+  color: var(--paper);
+}
+
+.ja-visit-inquiry:focus { outline: none; }
+
+.ja-visit-inquiry-grid {
+  display: grid;
+  grid-template-columns: minmax(0, .78fr) minmax(0, 1.22fr);
+  gap: clamp(1.8rem, 7vw, 7rem);
+}
+
+.ja-visit-inquiry-intro { padding-top: clamp(0px, 2vw, 1.6rem); }
+
+.ja-visit-inquiry-intro h2 {
+  margin: 0 0 1.15rem;
+  max-width: 8.8ch;
+  color: #f5f4df;
+  font: 625 clamp(2.8rem, 5.6vw, 6rem)/.94 var(--display);
+  letter-spacing: -.043em;
+}
+
+.ja-visit-inquiry-intro p {
+  margin: 0 0 .8rem;
+  max-width: 33ch;
+  color: #d9e1d6;
+  font-size: clamp(1rem, 1.3vw, 1.18rem);
+  line-height: 1.52;
+}
+
+.ja-visit-inquiry-intro .ja-visit-jump { color: var(--accent); }
+
+.ja-visit-draft {
+  display: grid;
+  gap: .85rem;
+  min-width: 0;
+  padding: clamp(1rem, 3vw, 2.35rem);
+  border-radius: .8rem;
+  background: var(--paper);
+  color: var(--ink);
+}
+
+.ja-visit-fields {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: .85rem 1rem;
+}
+
+.ja-visit-fields label {
+  display: grid;
+  min-width: 0;
+  gap: .38rem;
+  font-weight: 700;
+}
+
+.ja-visit-fields label small { color: var(--muted); font-weight: 500; }
+
+.ja-visit-select { position: relative; min-width: 0; }
+
+.ja-visit-select > svg {
+  position: absolute;
+  top: 50%;
+  right: .7rem;
+  transform: translateY(-50%);
+  pointer-events: none;
+}
+
+.ja-visit-select select,
+.ja-visit-draft textarea {
+  display: block;
+  width: 100%;
+  border: 1px solid #aebaae;
+  border-radius: .38rem;
+  background: #f9f8f1;
+  color: inherit;
+  font: 500 1rem/1.45 var(--body);
+}
+
+.ja-visit-select select {
+  appearance: none;
+  height: 2.88rem;
+  padding: .44rem 2.05rem .44rem .7rem;
+  text-overflow: ellipsis;
+}
+
+.ja-visit-select select:disabled {
+  opacity: .72;
+  color: var(--muted);
+}
+
+.ja-visit-draft textarea {
+  min-height: 7.2rem;
+  padding: .65rem .7rem;
+  resize: vertical;
+}
+
+.ja-visit-unit {
+  display: grid;
+  grid-template-columns: 4.5rem minmax(0, 1fr) auto;
+  align-items: center;
+  gap: .8rem;
+  min-height: 3.5rem;
+  padding-right: .82rem;
+  overflow: hidden;
+  border: 1px solid #bcc8bc;
+  border-radius: .38rem;
+  color: inherit;
+  background: var(--field);
+  text-decoration: none;
+}
+
+.ja-visit-unit:hover { background: #dbe6d8; }
+
+.ja-visit-unit-image {
+  align-self: stretch;
+  min-height: 3.5rem;
+  display: grid;
+  place-content: center;
+  overflow: hidden;
+  background: #d5e0d2;
+  font-size: .7rem;
+}
+
+.ja-visit-unit-image img {
+  display: block;
+  width: 4.5rem;
+  height: 100%;
+  min-height: 3.5rem;
+  object-fit: cover;
+}
+
+.ja-visit-unit > div:not(.ja-visit-unit-image) { display: grid; gap: .12rem; }
+.ja-visit-unit small { color: var(--muted); font-size: .74rem; }
+.ja-visit-unit strong { font-size: .9rem; line-height: 1.2; }
+.ja-visit-message { align-self: end; margin-block: .1rem -.44rem; font-weight: 700; }
+
+.ja-visit-form-note,
+.ja-visit-feedback {
+  margin: 0;
+  color: var(--muted);
+  font-size: .86rem;
+  line-height: 1.4;
+}
+
+.ja-visit-feedback:empty {
+  position: absolute;
+  clip-path: inset(50%);
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
+
+.ja-visit-draft-actions {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: .4rem .85rem;
+}
+
+.ja-visit-draft-actions .ja-button:disabled { cursor: default; opacity: .55; }
+
+.ja-visit-reset {
+  min-height: 44px;
+  padding: .25rem .35rem;
+  border: 0;
+  background: transparent;
+  color: inherit;
+  font: 700 .9rem/1.2 var(--body);
+  text-decoration: underline;
+  text-underline-offset: .2em;
+  cursor: pointer;
+}
+
+@media (max-width: 850px) {
+  .ja-visit-intro, .ja-visit-inquiry-grid { grid-template-columns: minmax(0, 1fr); }
+  .ja-visit-intro { gap: 1.7rem; }
+  .ja-visit-lede h1 { font-size: clamp(4.4rem, 12vw, 6.1rem); }
+  .ja-visit-inquiry-intro h2 { max-width: 15ch; }
+  .ja-visit-map-destination { font-size: clamp(.84rem, 2.8vw, 1.45rem); }
+}
+
+@media (max-width: 490px) {
+  .ja-visit-fields { grid-template-columns: minmax(0, 1fr); }
+  .ja-visit-inquiry { scroll-margin-top: 3.5rem; }
+  .ja-visit-north { padding: .3rem .4rem; font-size: .6rem; }
+  .ja-visit-north svg { width: .78rem; height: .78rem; }
+}

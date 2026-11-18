@@ -1,0 +1,46 @@
+/* F1: unified Jarcar tokens and shared interaction rules. Applies to all pages. */
+:root{
+  --paper:#f0eee6;--ink:#14241c;--muted:#5f6b61;--field:#e4e6dc;--line:#c6cfc3;
+  --accent:#e7ec7c;--accent-strong:#f5f8a3;--white:#fcfbf4;
+  --j12-motion:cubic-bezier(.22,.8,.23,1);
+  scroll-padding-top:88px;
+}
+html{scroll-behavior:smooth}body{background:var(--paper);color:var(--ink)}
+::selection{background:#e7ec7c;color:#112117}
+button,a,input,select,textarea{-webkit-tap-highlight-color:transparent}
+button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible,textarea:focus-visible{outline:3px solid #adbd42;outline-offset:3px}
+.ja-header{position:sticky;top:0;z-index:90;background:#101a14ed;color:#f4f4eb;border-bottom:1px solid #6c866c60;backdrop-filter:blur(20px);-webkit-backdrop-filter:blur(20px)}
+.ja-header-inner{min-height:73px}
+.ja-primary-nav a{position:relative;font:750 clamp(11px,.88vw,13px)/1.1 var(--body);text-transform:uppercase;letter-spacing:.06em;white-space:nowrap;text-decoration:none!important}
+.ja-primary-nav a:after{content:"";position:absolute;left:0;right:0;bottom:3px;height:2px;background:var(--accent);transform:scaleX(0);transform-origin:left;transition:transform .27s var(--j12-motion)}
+.ja-primary-nav a:hover:after,.ja-primary-nav a[aria-current="page"]:after{transform:scaleX(1)}
+.ja-header .ja-brand>span{letter-spacing:-.075em}
+.ja-saved{font-size:12px;gap:6px}
+.ja-footer{background:#101a14;color:#e9eee7}.ja-footer a{transition:color .2s}.ja-footer a:hover{color:var(--accent)}
+.ja-button,.ja-outline,.jd-contact{transition:transform .22s var(--j12-motion),background-color .22s,color .22s,border-color .22s}
+.ja-button:hover,.jd-contact:hover{transform:translateY(-2px)}
+.ja-c-heading h1,.jd-title h1{letter-spacing:-.075em}
+.ja-cc{transition:transform .27s var(--j12-motion)}
+.ja-cc:hover{transform:translateY(-2px)}
+.ja-cc h2,.ja-cc-details strong,.jd-price-block strong{overflow-wrap:anywhere;word-break:normal}
+.ja-cc-details strong{font-variant-numeric:tabular-nums}
+.ja-cc-image-link img{transition:transform .55s var(--j12-motion),filter .4s}
+.ja-cc-image-link:hover img{transform:scale(1.04);filter:saturate(1.08)}
+.ja-c-select-control:focus-within,.ja-c-search-control:focus-within{outline:2px solid #78944d;outline-offset:2px}
+.r9-back-top{box-shadow:0 6px 25px #101a1447}
+/* R12: dedicated safe-area and scroll targets. Never rely on opacity:0 to show content. */
+#ja-main{min-height:60vh;overflow:clip}
+#ja-main [id]{scroll-margin-top:95px}
+@media(min-width:1240px){.ja-primary-nav{gap:clamp(18px,2.65vw,41px)}}
+@media(max-width:1060px){.ja-header-inner{min-height:68px}.ja-header-actions{gap:7px}}
+@media(max-width:600px){.ja-header-inner{min-height:65px}.ja-brand>span{font-size:31px}.ja-brand>img{width:27px;height:27px}.ja-footer{padding-bottom:env(safe-area-inset-bottom)}.ja-button,.ja-outline{min-height:48px}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.ja-primary-nav a:after,.ja-cc,.ja-cc-image-link img,.ja-button,.jd-contact{transition:none!important}}
+/* Header reflows earlier than the legacy 720px breakpoint; prevents tablet overflow. */
+@media(max-width:1040px){
+  .ja-header-inner{grid-template-columns:minmax(0,1fr) auto;gap:10px}
+  .ja-primary-nav{display:none!important}
+  .ja-menu-trigger{display:grid!important;place-items:center;width:44px;height:44px}
+  .ja-header-actions::after{display:none!important}
+  .ja-saved>span:not(.ja-count){display:none}
+  .ja-saved{min-width:40px;justify-content:center}
+}

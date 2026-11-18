@@ -1,0 +1,65 @@
+/* R25: permanent, reliable navigation on mobile and desktop.
+   The adjacent spacer preserves layout flow, avoiding obscured page content. */
+:root {
+  --site-header-h: 73px;
+  --header-h: var(--site-header-h);
+}
+
+.ja-header.ja-header-pinned {
+  position: fixed !important;
+  inset: 0 0 auto 0;
+  width: 100%;
+  z-index: 350;
+  background: rgba(15, 24, 19, .97);
+  -webkit-backdrop-filter: blur(18px);
+  backdrop-filter: blur(18px);
+  box-shadow: 0 9px 30px rgba(5, 17, 10, .16);
+}
+.ja-header-spacer {
+  display: block;
+  width: 100%;
+  height: var(--site-header-h);
+  flex: none;
+  background: #111a15;
+}
+
+/* The menu is a Radix portal and must layer above the fixed header. */
+.ja-nav-overlay { z-index: 500 !important; }
+.ja-nav-dialog { z-index: 501 !important; }
+.ja-skip { z-index: 550; }
+.r9-reading-progress { z-index: 360; }
+
+html {
+  scroll-padding-top: calc(var(--site-header-h) + 20px);
+}
+#ja-main [id] {
+  scroll-margin-top: calc(var(--site-header-h) + 22px);
+}
+
+/* Tablet and narrow desktop */
+@media (max-width: 1060px) {
+  :root { --site-header-h: 68px; }
+}
+
+/* Mobile navigation: all actions stay available while scrolling. */
+@media (max-width: 600px) {
+  :root { --site-header-h: 65px; }
+  .ja-header.ja-header-pinned {
+    background: rgba(13, 23, 17, .985);
+    box-shadow: 0 6px 22px rgba(4, 11, 6, .26);
+  }
+  .ja-header-inner { min-height: var(--site-header-h); }
+}
+
+/* iOS safe-area inset for standalone / fullscreen displays. */
+@supports (padding-top: env(safe-area-inset-top)) {
+  @media (max-width: 600px) and (display-mode: standalone) {
+    :root { --site-header-h: calc(65px + env(safe-area-inset-top, 0px)); }
+    .ja-header.ja-header-pinned { padding-top: env(safe-area-inset-top, 0px); }
+    .ja-header-inner { min-height: 65px; }
+  }
+}
+
+@media print {
+  .ja-header-spacer { display: none !important; }
+}

@@ -1,0 +1,11 @@
+node_modules
+dist
+.vercel
+*.zip
+QA_*.html
+QA_OFFLINE_*.json
+preview-check.html
+preview_test.html
+scripts/preview*
+.env
+.env.*

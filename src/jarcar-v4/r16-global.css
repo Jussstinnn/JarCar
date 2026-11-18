@@ -1,0 +1,7 @@
+/* F6: navegación conectada, a11y, microinteracciones sin ocultar contenido */
+.ja-saved{transition:color .22s,transform .22s}.ja-saved:hover{transform:translateY(-2px);color:#e6ee83}
+.j16-palette-links{padding:12px 20px;display:flex;flex-wrap:wrap;gap:8px}
+.j16-palette-links button{display:inline-flex;align-items:center;gap:7px;justify-content:space-between;min-height:39px;border:1px solid #b6c7b7;background:#e4eadd;color:#1c3423;cursor:pointer;font:750 12px var(--body);padding:9px 12px;transition:background .2s}
+.j16-palette-links button:hover{background:#e5ed88}.j16-palette-links button:focus-visible{outline:2px solid #52753e;outline-offset:2px}
+@media(max-width:600px){.j16-palette-links{padding:10px}.j16-palette-links button{flex:1 1 auto;min-width:105px}}
+@media(prefers-reduced-motion:reduce){.ja-saved,.j16-palette-links button{transition:none!important}.ja-saved:hover{transform:none}}

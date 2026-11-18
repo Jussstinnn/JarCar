@@ -1,0 +1,87 @@
+/* R19 / F9 continued. Mobile-first spacing, rotating openings and clearer separation between Home and Inventory. */
+.j12-hero-media,.j13-opening-media{contain:layout paint style;}
+.j13-opening-copy{position:relative;}
+.j13-opening-highlights{list-style:none;display:flex;flex-wrap:wrap;gap:10px 12px;margin:0 0 28px;padding:0}
+.j13-opening-highlights li{display:inline-flex;align-items:center;min-height:38px;padding:9px 13px;border:1px solid #55685c;background:rgba(255,255,255,.03);font:700 12px/1.35 var(--body);color:#eef1e3}
+.j13-opening-photo-title small{color:#eef3a6}
+.j13-opening-copy h1{max-width:9.5ch}
+.j13-opening-copy>p{max-width:41ch}
+.j13-opening-chooser button{position:relative}
+.j13-opening-chooser button[aria-pressed=true]{background:#293a2c;border-top-color:var(--j13-lime);color:var(--j13-lime)}
+
+/* Improve mobile breathing room across the homepage. */
+@media (max-width: 700px){
+  .j12-hero-content{padding-top:28px;padding-bottom:24px}
+  .j12-hero h1{font-size:clamp(46px,14.2vw,72px);line-height:.94;letter-spacing:-.072em;max-width:unset}
+  .j12-hero-summary{margin-top:18px;max-width:26ch;line-height:1.62}
+  .j12-hero-actions{display:grid;grid-template-columns:1fr;gap:14px}
+  .j12-hero-actions .j12-text-link{padding-bottom:10px}
+  .j12-hero-proof{margin-top:28px;padding-top:24px;grid-template-columns:1fr 1fr}
+  .j12-hero-proof>div>span:last-child{max-width:12ch}
+  .j12-hero-media{height:auto;min-height:0}
+  .j12-hero-picture{position:relative;inset:auto;height:clamp(290px,71vw,430px)}
+  .j12-photo-caption{position:relative;bottom:auto;left:auto;right:auto;padding:18px var(--edge) 14px;align-items:flex-start;gap:14px;background:#13201a}
+  .j12-photo-caption h2{font-size:clamp(30px,8vw,42px);line-height:.98}
+  .j12-caption-details{flex-direction:column;align-items:flex-start;gap:4px}
+  .j12-caption-details strong{font-size:18px}
+  .j12-photo-caption>a{align-self:flex-end}
+  .j12-hero-rail{height:auto;padding:12px var(--edge) 14px;align-items:flex-start;gap:10px;flex-wrap:wrap}
+  .j12-rail-options{width:100%;grid-template-columns:repeat(4,minmax(0,1fr));gap:6px}
+  .j12-rail-options button{min-height:58px;padding-top:7px;padding-bottom:8px}
+  .j12-rail-arrows{margin-left:auto}
+  .j12-section{padding-top:70px;padding-bottom:70px}
+  .j12-section-head h2{font-size:clamp(44px,11.4vw,66px);line-height:.92}
+  .j12-route{padding-top:72px;padding-bottom:72px}
+  .j12-route-copy h2{font-size:clamp(43px,12.2vw,66px);line-height:.96;letter-spacing:-.055em;max-width:9ch}
+  .j12-route-copy p{margin-top:18px;max-width:22ch;font-size:16px;line-height:1.62}
+  .j12-route-machine{margin-top:6px}
+  .j12-story-copy h2,.j12-visit-heading h2{font-size:clamp(44px,10.8vw,64px);line-height:.94}
+}
+
+@media (max-width: 540px){
+  .j12-home .j12-eyebrow{letter-spacing:.13em}
+  .j12-hero-overline{gap:9px;row-gap:6px}
+  .j12-find-grid label{gap:8px}
+  .j12-discovery-caption{gap:12px;align-items:flex-start;flex-direction:column}
+  .j12-discovery-caption a{align-self:flex-end}
+  .j12-route-options{grid-template-columns:1fr}
+  .j12-route-options button{justify-content:space-between}
+  .j12-story-copy,.j12-visit{padding-top:58px;padding-bottom:58px}
+}
+
+/* Inventory opening should feel different from the landing, especially on mobile. */
+@media (max-width: 830px){
+  .j13-opening-layout{display:flex;flex-direction:column-reverse;gap:18px;padding-top:28px}
+  .j13-opening-media{min-height:330px;border:1px solid rgba(231,236,124,.12)}
+  .j13-opening-copy{padding-bottom:10px}
+  .j13-opening-copy h1{margin:10px 0 18px;font-size:clamp(50px,12vw,76px);line-height:.92;max-width:10ch}
+  .j13-opening-copy>p{line-height:1.62}
+  .j13-opening-highlights{margin-bottom:22px}
+  .j13-opening-bottom{gap:14px 22px;padding-top:18px}
+  .j13-opening-bottom strong{font-size:clamp(32px,10vw,48px)}
+}
+
+@media (max-width: 610px){
+  .j13-opening{padding-bottom:6px}
+  .j13-opening-media{min-height:300px}
+  .j13-opening-photo-title{left:14px;right:14px;bottom:14px;align-items:flex-end}
+  .j13-opening-photo-title strong{font-size:clamp(26px,8vw,34px);line-height:1}
+  .j13-opening-photo-title span{font-size:13px}
+  .j13-opening-photo-title a{width:46px;height:46px}
+  .j13-opening-chooser{margin-top:6px;padding-bottom:2px}
+  .j13-opening-chooser button{min-height:50px;padding-inline:12px}
+  .j13-opening-highlights{display:grid;grid-template-columns:1fr;gap:8px}
+  .j13-opening-highlights li{min-height:0}
+  .j13-catalog .ja-c-heading h2{line-height:.96}
+}
+
+@media (max-width: 390px){
+  .j12-hero h1{font-size:clamp(42px,14vw,56px)}
+  .j12-photo-caption{padding-inline:14px}
+  .j12-route-copy h2{font-size:clamp(40px,12vw,56px)}
+  .j13-opening-copy h1{font-size:clamp(44px,12vw,58px)}
+}
+
+@media (prefers-reduced-motion: reduce){
+  .j12-hero-media,.j13-opening-media{scroll-behavior:auto}
+}

@@ -1,0 +1,49 @@
+{
+  "name": "jarcar-motors-frontend-r25-vercel",
+  "version": "25.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --port 4631 --strictPort --open /jarcar",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview --host 127.0.0.1 --port 4632 --strictPort --open /jarcar",
+    "check": "tsc --noEmit",
+    "verify:assets": "node scripts/verificar-assets.cjs",
+    "test:logic": "node scripts/verificar-ruta.cjs",
+    "test:r8": "node scripts/verificar-r8.cjs",
+    "test:r9": "node scripts/verificar-r9.cjs",
+    "test:r10": "node scripts/verificar-r10.cjs",
+    "test:r11": "node scripts/verificar-r11.cjs",
+    "test:r12": "node scripts/verificar-r12.cjs",
+    "test:r13": "node scripts/verificar-r13.cjs",
+    "test:r14": "node scripts/verificar-r14.cjs",
+    "test:r15": "node scripts/verificar-r15.cjs",
+    "test:r16": "node scripts/verificar-r16.cjs",
+    "test:r17": "node scripts/verificar-r17.cjs",
+    "test:r18": "node scripts/verificar-r18.cjs",
+    "verify:complete": "node scripts/verificar-r25-vercel.cjs",
+    "test:r20": "node scripts/verificar-r20.cjs",
+    "test:r23": "node scripts/verificar-r23.cjs",
+    "test:r24": "node scripts/verificar-r24.cjs",
+    "verify:deploy": "node scripts/verificar-r25-vercel.cjs"
+  },
+  "dependencies": {
+    "@radix-ui/react-dialog": "1.1.14",
+    "@tanstack/react-query": "5.83.0",
+    "lucide-react": "0.462.0",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "react-router-dom": "6.30.1"
+  },
+  "devDependencies": {
+    "@types/node": "22.16.5",
+    "@types/react": "18.3.23",
+    "@types/react-dom": "18.3.7",
+    "@vitejs/plugin-react-swc": "3.11.0",
+    "typescript": "5.8.3",
+    "vite": "5.4.19"
+  },
+  "engines": {
+    "node": ">=20.19 <25"
+  }
+}

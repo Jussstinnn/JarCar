@@ -1,0 +1,3340 @@
+{
+  "chevrolet-colorado-ltz-2024": [
+    {
+      "id": "chevrolet-colorado-ltz-2024-01",
+      "label": "Tres cuartos delantero",
+      "alt": "Chevrolet Colorado LTZ 2024: tres cuartos delantero",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/chevrolet-colorado-ltz-2024-01-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/chevrolet-colorado-ltz-2024-01-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/chevrolet-colorado-ltz-2024-01-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "chevrolet-colorado-ltz-2024-02",
+      "label": "Tres cuartos delantero lateral",
+      "alt": "Chevrolet Colorado LTZ 2024: tres cuartos delantero lateral",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/chevrolet-colorado-ltz-2024-02-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/chevrolet-colorado-ltz-2024-02-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/chevrolet-colorado-ltz-2024-02-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "chevrolet-colorado-ltz-2024-03",
+      "label": "Tres cuartos trasero",
+      "alt": "Chevrolet Colorado LTZ 2024: tres cuartos trasero",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/chevrolet-colorado-ltz-2024-03-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/chevrolet-colorado-ltz-2024-03-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/chevrolet-colorado-ltz-2024-03-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "chevrolet-colorado-ltz-2024-04",
+      "label": "Parte trasera lateral",
+      "alt": "Chevrolet Colorado LTZ 2024: parte trasera lateral",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/chevrolet-colorado-ltz-2024-04-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/chevrolet-colorado-ltz-2024-04-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/chevrolet-colorado-ltz-2024-04-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "chevrolet-colorado-ltz-2024-05",
+      "label": "Frente",
+      "alt": "Chevrolet Colorado LTZ 2024: frente",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/chevrolet-colorado-ltz-2024-05-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/chevrolet-colorado-ltz-2024-05-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/chevrolet-colorado-ltz-2024-05-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "chevrolet-colorado-ltz-2024-06",
+      "label": "Parte trasera",
+      "alt": "Chevrolet Colorado LTZ 2024: parte trasera",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/chevrolet-colorado-ltz-2024-06-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/chevrolet-colorado-ltz-2024-06-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/chevrolet-colorado-ltz-2024-06-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "chevrolet-colorado-ltz-2024-07",
+      "label": "Tablero y asientos delanteros",
+      "alt": "Chevrolet Colorado LTZ 2024: tablero y asientos delanteros",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/chevrolet-colorado-ltz-2024-07-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/chevrolet-colorado-ltz-2024-07-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/chevrolet-colorado-ltz-2024-07-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "chevrolet-colorado-ltz-2024-08",
+      "label": "Asientos traseros",
+      "alt": "Chevrolet Colorado LTZ 2024: asientos traseros",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/chevrolet-colorado-ltz-2024-08-360.webp",
+          "width": 360,
+          "height": 480
+        },
+        {
+          "src": "/jarcar-v3/vehicles/chevrolet-colorado-ltz-2024-08-720.webp",
+          "width": 720,
+          "height": 960
+        },
+        {
+          "src": "/jarcar-v3/vehicles/chevrolet-colorado-ltz-2024-08-960.webp",
+          "width": 960,
+          "height": 1280
+        }
+      ]
+    }
+  ],
+  "ford-f150-raptor-2019": [
+    {
+      "id": "ford-f150-raptor-2019-01",
+      "label": "Tres cuartos delantero",
+      "alt": "Ford F150 Raptor 2019: tres cuartos delantero",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/ford-f150-raptor-2019-01-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/ford-f150-raptor-2019-01-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/ford-f150-raptor-2019-01-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "ford-f150-raptor-2019-02",
+      "label": "Tres cuartos trasero",
+      "alt": "Ford F150 Raptor 2019: tres cuartos trasero",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/ford-f150-raptor-2019-02-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/ford-f150-raptor-2019-02-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/ford-f150-raptor-2019-02-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "ford-f150-raptor-2019-03",
+      "label": "Tres cuartos delantero lateral",
+      "alt": "Ford F150 Raptor 2019: tres cuartos delantero lateral",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/ford-f150-raptor-2019-03-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/ford-f150-raptor-2019-03-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/ford-f150-raptor-2019-03-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "ford-f150-raptor-2019-04",
+      "label": "Frente",
+      "alt": "Ford F150 Raptor 2019: frente",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/ford-f150-raptor-2019-04-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/ford-f150-raptor-2019-04-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/ford-f150-raptor-2019-04-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "ford-f150-raptor-2019-05",
+      "label": "Parte trasera",
+      "alt": "Ford F150 Raptor 2019: parte trasera",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/ford-f150-raptor-2019-05-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/ford-f150-raptor-2019-05-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/ford-f150-raptor-2019-05-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "ford-f150-raptor-2019-06",
+      "label": "Tablero y asientos delanteros",
+      "alt": "Ford F150 Raptor 2019: tablero y asientos delanteros",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/ford-f150-raptor-2019-06-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/ford-f150-raptor-2019-06-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/ford-f150-raptor-2019-06-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "ford-f150-raptor-2019-07",
+      "label": "Asientos traseros",
+      "alt": "Ford F150 Raptor 2019: asientos traseros",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/ford-f150-raptor-2019-07-360.webp",
+          "width": 360,
+          "height": 480
+        },
+        {
+          "src": "/jarcar-v3/vehicles/ford-f150-raptor-2019-07-720.webp",
+          "width": 720,
+          "height": 960
+        },
+        {
+          "src": "/jarcar-v3/vehicles/ford-f150-raptor-2019-07-960.webp",
+          "width": 960,
+          "height": 1280
+        }
+      ]
+    },
+    {
+      "id": "ford-f150-raptor-2019-08",
+      "label": "Detalle de suspensión",
+      "alt": "Ford F150 Raptor 2019: detalle de suspensión",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/ford-f150-raptor-2019-08-360.webp",
+          "width": 360,
+          "height": 480
+        },
+        {
+          "src": "/jarcar-v3/vehicles/ford-f150-raptor-2019-08-720.webp",
+          "width": 720,
+          "height": 960
+        },
+        {
+          "src": "/jarcar-v3/vehicles/ford-f150-raptor-2019-08-960.webp",
+          "width": 960,
+          "height": 1280
+        }
+      ]
+    }
+  ],
+  "jeep-wrangler-sahara-2010": [
+    {
+      "id": "jeep-wrangler-sahara-2010-01",
+      "label": "Tres cuartos delantero",
+      "alt": "Jeep Wrangler Sahara 2010: tres cuartos delantero",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/jeep-wrangler-sahara-2010-01-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/jeep-wrangler-sahara-2010-01-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/jeep-wrangler-sahara-2010-01-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "jeep-wrangler-sahara-2010-02",
+      "label": "Tres cuartos delantero lateral",
+      "alt": "Jeep Wrangler Sahara 2010: tres cuartos delantero lateral",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/jeep-wrangler-sahara-2010-02-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/jeep-wrangler-sahara-2010-02-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/jeep-wrangler-sahara-2010-02-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "jeep-wrangler-sahara-2010-03",
+      "label": "Tres cuartos trasero",
+      "alt": "Jeep Wrangler Sahara 2010: tres cuartos trasero",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/jeep-wrangler-sahara-2010-03-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/jeep-wrangler-sahara-2010-03-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/jeep-wrangler-sahara-2010-03-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "jeep-wrangler-sahara-2010-04",
+      "label": "Parte trasera lateral",
+      "alt": "Jeep Wrangler Sahara 2010: parte trasera lateral",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/jeep-wrangler-sahara-2010-04-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/jeep-wrangler-sahara-2010-04-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/jeep-wrangler-sahara-2010-04-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "jeep-wrangler-sahara-2010-05",
+      "label": "Frente",
+      "alt": "Jeep Wrangler Sahara 2010: frente",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/jeep-wrangler-sahara-2010-05-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/jeep-wrangler-sahara-2010-05-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/jeep-wrangler-sahara-2010-05-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "jeep-wrangler-sahara-2010-06",
+      "label": "Parte trasera",
+      "alt": "Jeep Wrangler Sahara 2010: parte trasera",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/jeep-wrangler-sahara-2010-06-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/jeep-wrangler-sahara-2010-06-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/jeep-wrangler-sahara-2010-06-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "jeep-wrangler-sahara-2010-07",
+      "label": "Tablero y asientos delanteros",
+      "alt": "Jeep Wrangler Sahara 2010: tablero y asientos delanteros",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/jeep-wrangler-sahara-2010-07-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/jeep-wrangler-sahara-2010-07-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/jeep-wrangler-sahara-2010-07-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "jeep-wrangler-sahara-2010-08",
+      "label": "Asientos traseros",
+      "alt": "Jeep Wrangler Sahara 2010: asientos traseros",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/jeep-wrangler-sahara-2010-08-360.webp",
+          "width": 360,
+          "height": 480
+        },
+        {
+          "src": "/jarcar-v3/vehicles/jeep-wrangler-sahara-2010-08-720.webp",
+          "width": 720,
+          "height": 960
+        },
+        {
+          "src": "/jarcar-v3/vehicles/jeep-wrangler-sahara-2010-08-960.webp",
+          "width": 960,
+          "height": 1280
+        }
+      ]
+    }
+  ],
+  "land-rover-discovery-4s-2013": [
+    {
+      "id": "land-rover-discovery-4s-2013-01",
+      "label": "Tres cuartos delantero",
+      "alt": "Land Rover Discovery 4S 2013: tres cuartos delantero",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/land-rover-discovery-4s-2013-01-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/land-rover-discovery-4s-2013-01-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/land-rover-discovery-4s-2013-01-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "land-rover-discovery-4s-2013-02",
+      "label": "Tres cuartos delantero lateral",
+      "alt": "Land Rover Discovery 4S 2013: tres cuartos delantero lateral",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/land-rover-discovery-4s-2013-02-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/land-rover-discovery-4s-2013-02-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/land-rover-discovery-4s-2013-02-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "land-rover-discovery-4s-2013-03",
+      "label": "Tres cuartos trasero",
+      "alt": "Land Rover Discovery 4S 2013: tres cuartos trasero",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/land-rover-discovery-4s-2013-03-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/land-rover-discovery-4s-2013-03-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/land-rover-discovery-4s-2013-03-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "land-rover-discovery-4s-2013-04",
+      "label": "Frente",
+      "alt": "Land Rover Discovery 4S 2013: frente",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/land-rover-discovery-4s-2013-04-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/land-rover-discovery-4s-2013-04-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/land-rover-discovery-4s-2013-04-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "land-rover-discovery-4s-2013-05",
+      "label": "Parte trasera",
+      "alt": "Land Rover Discovery 4S 2013: parte trasera",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/land-rover-discovery-4s-2013-05-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/land-rover-discovery-4s-2013-05-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/land-rover-discovery-4s-2013-05-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "land-rover-discovery-4s-2013-06",
+      "label": "Tablero y asientos delanteros",
+      "alt": "Land Rover Discovery 4S 2013: tablero y asientos delanteros",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/land-rover-discovery-4s-2013-06-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/land-rover-discovery-4s-2013-06-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/land-rover-discovery-4s-2013-06-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "land-rover-discovery-4s-2013-07",
+      "label": "Asientos traseros",
+      "alt": "Land Rover Discovery 4S 2013: asientos traseros",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/land-rover-discovery-4s-2013-07-360.webp",
+          "width": 360,
+          "height": 480
+        },
+        {
+          "src": "/jarcar-v3/vehicles/land-rover-discovery-4s-2013-07-720.webp",
+          "width": 720,
+          "height": 960
+        },
+        {
+          "src": "/jarcar-v3/vehicles/land-rover-discovery-4s-2013-07-960.webp",
+          "width": 960,
+          "height": 1280
+        }
+      ]
+    }
+  ],
+  "mini-aceman-s-2025": [
+    {
+      "id": "mini-aceman-s-2025-01",
+      "label": "Tres cuartos delantero",
+      "alt": "MINI Aceman S 2025: tres cuartos delantero",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/mini-aceman-s-2025-01-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/mini-aceman-s-2025-01-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/mini-aceman-s-2025-01-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "mini-aceman-s-2025-02",
+      "label": "Tres cuartos delantero lateral",
+      "alt": "MINI Aceman S 2025: tres cuartos delantero lateral",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/mini-aceman-s-2025-02-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/mini-aceman-s-2025-02-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/mini-aceman-s-2025-02-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "mini-aceman-s-2025-03",
+      "label": "Tres cuartos trasero",
+      "alt": "MINI Aceman S 2025: tres cuartos trasero",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/mini-aceman-s-2025-03-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/mini-aceman-s-2025-03-480.webp",
+          "width": 480,
+          "height": 360
+        }
+      ]
+    },
+    {
+      "id": "mini-aceman-s-2025-04",
+      "label": "Parte trasera lateral",
+      "alt": "MINI Aceman S 2025: parte trasera lateral",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/mini-aceman-s-2025-04-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/mini-aceman-s-2025-04-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/mini-aceman-s-2025-04-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "mini-aceman-s-2025-05",
+      "label": "Frente",
+      "alt": "MINI Aceman S 2025: frente",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/mini-aceman-s-2025-05-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/mini-aceman-s-2025-05-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/mini-aceman-s-2025-05-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "mini-aceman-s-2025-06",
+      "label": "Parte trasera",
+      "alt": "MINI Aceman S 2025: parte trasera",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/mini-aceman-s-2025-06-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/mini-aceman-s-2025-06-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/mini-aceman-s-2025-06-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "mini-aceman-s-2025-07",
+      "label": "Tablero y asientos delanteros",
+      "alt": "MINI Aceman S 2025: tablero y asientos delanteros",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/mini-aceman-s-2025-07-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/mini-aceman-s-2025-07-480.webp",
+          "width": 480,
+          "height": 360
+        }
+      ]
+    },
+    {
+      "id": "mini-aceman-s-2025-08",
+      "label": "Asientos traseros",
+      "alt": "MINI Aceman S 2025: asientos traseros",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/mini-aceman-s-2025-08-360.webp",
+          "width": 360,
+          "height": 480
+        },
+        {
+          "src": "/jarcar-v3/vehicles/mini-aceman-s-2025-08-720.webp",
+          "width": 720,
+          "height": 960
+        },
+        {
+          "src": "/jarcar-v3/vehicles/mini-aceman-s-2025-08-960.webp",
+          "width": 960,
+          "height": 1280
+        }
+      ]
+    }
+  ],
+  "toyota-bz5-2025": [
+    {
+      "id": "toyota-bz5-2025-01",
+      "label": "Tres cuartos delantero",
+      "alt": "Toyota BZ5 2025: tres cuartos delantero",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/toyota-bz5-2025-01-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-bz5-2025-01-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-bz5-2025-01-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "toyota-bz5-2025-02",
+      "label": "Tres cuartos delantero lateral",
+      "alt": "Toyota BZ5 2025: tres cuartos delantero lateral",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/toyota-bz5-2025-02-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-bz5-2025-02-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-bz5-2025-02-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "toyota-bz5-2025-03",
+      "label": "Tres cuartos trasero",
+      "alt": "Toyota BZ5 2025: tres cuartos trasero",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/toyota-bz5-2025-03-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-bz5-2025-03-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-bz5-2025-03-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "toyota-bz5-2025-04",
+      "label": "Parte trasera lateral",
+      "alt": "Toyota BZ5 2025: parte trasera lateral",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/toyota-bz5-2025-04-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-bz5-2025-04-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-bz5-2025-04-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "toyota-bz5-2025-05",
+      "label": "Frente",
+      "alt": "Toyota BZ5 2025: frente",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/toyota-bz5-2025-05-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-bz5-2025-05-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-bz5-2025-05-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "toyota-bz5-2025-06",
+      "label": "Parte trasera",
+      "alt": "Toyota BZ5 2025: parte trasera",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/toyota-bz5-2025-06-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-bz5-2025-06-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-bz5-2025-06-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "toyota-bz5-2025-07",
+      "label": "Tablero y asientos delanteros",
+      "alt": "Toyota BZ5 2025: tablero y asientos delanteros",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/toyota-bz5-2025-07-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-bz5-2025-07-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-bz5-2025-07-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "toyota-bz5-2025-08",
+      "label": "Asientos traseros",
+      "alt": "Toyota BZ5 2025: asientos traseros",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/toyota-bz5-2025-08-360.webp",
+          "width": 360,
+          "height": 480
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-bz5-2025-08-720.webp",
+          "width": 720,
+          "height": 960
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-bz5-2025-08-960.webp",
+          "width": 960,
+          "height": 1280
+        }
+      ]
+    },
+    {
+      "id": "toyota-bz5-2025-09",
+      "label": "Interior lateral",
+      "alt": "Toyota BZ5 2025: interior lateral",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/toyota-bz5-2025-09-360.webp",
+          "width": 360,
+          "height": 480
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-bz5-2025-09-720.webp",
+          "width": 720,
+          "height": 960
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-bz5-2025-09-960.webp",
+          "width": 960,
+          "height": 1280
+        }
+      ]
+    }
+  ],
+  "toyota-cressida-1984": [
+    {
+      "id": "toyota-cressida-1984-01",
+      "label": "Tres cuartos delantero",
+      "alt": "Toyota Cressida 1984: tres cuartos delantero",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/toyota-cressida-1984-01-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-cressida-1984-01-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-cressida-1984-01-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "toyota-cressida-1984-02",
+      "label": "Tres cuartos delantero lateral",
+      "alt": "Toyota Cressida 1984: tres cuartos delantero lateral",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/toyota-cressida-1984-02-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-cressida-1984-02-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-cressida-1984-02-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "toyota-cressida-1984-03",
+      "label": "Tres cuartos trasero",
+      "alt": "Toyota Cressida 1984: tres cuartos trasero",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/toyota-cressida-1984-03-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-cressida-1984-03-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-cressida-1984-03-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "toyota-cressida-1984-04",
+      "label": "Parte trasera",
+      "alt": "Toyota Cressida 1984: parte trasera",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/toyota-cressida-1984-04-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-cressida-1984-04-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-cressida-1984-04-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "toyota-cressida-1984-05",
+      "label": "Tablero y asientos delanteros",
+      "alt": "Toyota Cressida 1984: tablero y asientos delanteros",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/toyota-cressida-1984-05-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-cressida-1984-05-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-cressida-1984-05-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "toyota-cressida-1984-06",
+      "label": "Asientos traseros",
+      "alt": "Toyota Cressida 1984: asientos traseros",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/toyota-cressida-1984-06-360.webp",
+          "width": 360,
+          "height": 480
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-cressida-1984-06-720.webp",
+          "width": 720,
+          "height": 960
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-cressida-1984-06-960.webp",
+          "width": 960,
+          "height": 1280
+        }
+      ]
+    }
+  ],
+  "toyota-hilux-2021": [
+    {
+      "id": "toyota-hilux-2021-01",
+      "label": "Tres cuartos delantero",
+      "alt": "Toyota Hilux 2021: tres cuartos delantero",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/toyota-hilux-2021-01-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-hilux-2021-01-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-hilux-2021-01-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "toyota-hilux-2021-02",
+      "label": "Tres cuartos delantero lateral",
+      "alt": "Toyota Hilux 2021: tres cuartos delantero lateral",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/toyota-hilux-2021-02-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-hilux-2021-02-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-hilux-2021-02-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "toyota-hilux-2021-03",
+      "label": "Tres cuartos trasero",
+      "alt": "Toyota Hilux 2021: tres cuartos trasero",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/toyota-hilux-2021-03-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-hilux-2021-03-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-hilux-2021-03-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "toyota-hilux-2021-04",
+      "label": "Parte trasera lateral",
+      "alt": "Toyota Hilux 2021: parte trasera lateral",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/toyota-hilux-2021-04-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-hilux-2021-04-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-hilux-2021-04-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "toyota-hilux-2021-05",
+      "label": "Frente",
+      "alt": "Toyota Hilux 2021: frente",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/toyota-hilux-2021-05-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-hilux-2021-05-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-hilux-2021-05-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "toyota-hilux-2021-06",
+      "label": "Parte trasera",
+      "alt": "Toyota Hilux 2021: parte trasera",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/toyota-hilux-2021-06-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-hilux-2021-06-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-hilux-2021-06-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "toyota-hilux-2021-07",
+      "label": "Tablero y asientos delanteros",
+      "alt": "Toyota Hilux 2021: tablero y asientos delanteros",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/toyota-hilux-2021-07-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-hilux-2021-07-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-hilux-2021-07-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "toyota-hilux-2021-08",
+      "label": "Asientos traseros",
+      "alt": "Toyota Hilux 2021: asientos traseros",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/toyota-hilux-2021-08-360.webp",
+          "width": 360,
+          "height": 480
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-hilux-2021-08-720.webp",
+          "width": 720,
+          "height": 960
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-hilux-2021-08-960.webp",
+          "width": 960,
+          "height": 1280
+        }
+      ]
+    },
+    {
+      "id": "toyota-hilux-2021-09",
+      "label": "Caja de carga",
+      "alt": "Toyota Hilux 2021: caja de carga",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/toyota-hilux-2021-09-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-hilux-2021-09-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-hilux-2021-09-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    }
+  ],
+  "volkswagen-escarabajo-super-beetle-1975": [
+    {
+      "id": "volkswagen-escarabajo-super-beetle-1975-01",
+      "label": "Tres cuartos delantero",
+      "alt": "Volkswagen Escarabajo Super Beetle 1975: tres cuartos delantero",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/volkswagen-escarabajo-super-beetle-1975-01-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/volkswagen-escarabajo-super-beetle-1975-01-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/volkswagen-escarabajo-super-beetle-1975-01-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "volkswagen-escarabajo-super-beetle-1975-02",
+      "label": "Tres cuartos delantero lateral",
+      "alt": "Volkswagen Escarabajo Super Beetle 1975: tres cuartos delantero lateral",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/volkswagen-escarabajo-super-beetle-1975-02-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/volkswagen-escarabajo-super-beetle-1975-02-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/volkswagen-escarabajo-super-beetle-1975-02-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "volkswagen-escarabajo-super-beetle-1975-03",
+      "label": "Tres cuartos trasero",
+      "alt": "Volkswagen Escarabajo Super Beetle 1975: tres cuartos trasero",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/volkswagen-escarabajo-super-beetle-1975-03-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/volkswagen-escarabajo-super-beetle-1975-03-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/volkswagen-escarabajo-super-beetle-1975-03-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "volkswagen-escarabajo-super-beetle-1975-04",
+      "label": "Parte trasera lateral",
+      "alt": "Volkswagen Escarabajo Super Beetle 1975: parte trasera lateral",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/volkswagen-escarabajo-super-beetle-1975-04-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/volkswagen-escarabajo-super-beetle-1975-04-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/volkswagen-escarabajo-super-beetle-1975-04-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "volkswagen-escarabajo-super-beetle-1975-05",
+      "label": "Frente",
+      "alt": "Volkswagen Escarabajo Super Beetle 1975: frente",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/volkswagen-escarabajo-super-beetle-1975-05-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/volkswagen-escarabajo-super-beetle-1975-05-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/volkswagen-escarabajo-super-beetle-1975-05-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "volkswagen-escarabajo-super-beetle-1975-06",
+      "label": "Parte trasera",
+      "alt": "Volkswagen Escarabajo Super Beetle 1975: parte trasera",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/volkswagen-escarabajo-super-beetle-1975-06-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/volkswagen-escarabajo-super-beetle-1975-06-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/volkswagen-escarabajo-super-beetle-1975-06-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "volkswagen-escarabajo-super-beetle-1975-07",
+      "label": "Interior",
+      "alt": "Volkswagen Escarabajo Super Beetle 1975: interior",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/volkswagen-escarabajo-super-beetle-1975-07-360.webp",
+          "width": 360,
+          "height": 480
+        },
+        {
+          "src": "/jarcar-v3/vehicles/volkswagen-escarabajo-super-beetle-1975-07-720.webp",
+          "width": 720,
+          "height": 960
+        },
+        {
+          "src": "/jarcar-v3/vehicles/volkswagen-escarabajo-super-beetle-1975-07-1200.webp",
+          "width": 1200,
+          "height": 1600
+        }
+      ]
+    },
+    {
+      "id": "volkswagen-escarabajo-super-beetle-1975-08",
+      "label": "Compartimento del motor",
+      "alt": "Volkswagen Escarabajo Super Beetle 1975: compartimento del motor",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/volkswagen-escarabajo-super-beetle-1975-08-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/volkswagen-escarabajo-super-beetle-1975-08-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/volkswagen-escarabajo-super-beetle-1975-08-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    }
+  ],
+  "audi-q5-prestige-2018": [
+    {
+      "id": "audi-q5-prestige-2018-01",
+      "label": "Vista 01",
+      "alt": "Audi Q5 Prestige 2018: vista 01",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/audi-q5-prestige-2018-01-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/audi-q5-prestige-2018-01-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/audi-q5-prestige-2018-01-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "audi-q5-prestige-2018-02",
+      "label": "Vista 02",
+      "alt": "Audi Q5 Prestige 2018: vista 02",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/audi-q5-prestige-2018-02-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/audi-q5-prestige-2018-02-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/audi-q5-prestige-2018-02-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "audi-q5-prestige-2018-03",
+      "label": "Vista 03",
+      "alt": "Audi Q5 Prestige 2018: vista 03",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/audi-q5-prestige-2018-03-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/audi-q5-prestige-2018-03-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/audi-q5-prestige-2018-03-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    }
+  ],
+  "audi-q7-2026": [
+    {
+      "id": "audi-q7-2026-01",
+      "label": "Vista 01",
+      "alt": "Audi Q7 2026: vista 01",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/audi-q7-2026-01-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/audi-q7-2026-01-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/audi-q7-2026-01-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "audi-q7-2026-02",
+      "label": "Vista 02",
+      "alt": "Audi Q7 2026: vista 02",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/audi-q7-2026-02-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/audi-q7-2026-02-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/audi-q7-2026-02-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "audi-q7-2026-03",
+      "label": "Vista 03",
+      "alt": "Audi Q7 2026: vista 03",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/audi-q7-2026-03-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/audi-q7-2026-03-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/audi-q7-2026-03-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    }
+  ],
+  "bmw-325i-2012": [
+    {
+      "id": "bmw-325i-2012-01",
+      "label": "Vista 01",
+      "alt": "BMW 325i 2012: vista 01",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/bmw-325i-2012-01-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/bmw-325i-2012-01-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/bmw-325i-2012-01-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "bmw-325i-2012-02",
+      "label": "Vista 02",
+      "alt": "BMW 325i 2012: vista 02",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/bmw-325i-2012-02-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/bmw-325i-2012-02-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/bmw-325i-2012-02-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "bmw-325i-2012-03",
+      "label": "Vista 03",
+      "alt": "BMW 325i 2012: vista 03",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/bmw-325i-2012-03-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/bmw-325i-2012-03-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/bmw-325i-2012-03-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    }
+  ],
+  "bmw-330i-2006": [
+    {
+      "id": "bmw-330i-2006-01",
+      "label": "Vista 01",
+      "alt": "BMW 330i 2006: vista 01",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/bmw-330i-2006-01-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/bmw-330i-2006-01-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/bmw-330i-2006-01-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "bmw-330i-2006-02",
+      "label": "Vista 02",
+      "alt": "BMW 330i 2006: vista 02",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/bmw-330i-2006-02-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/bmw-330i-2006-02-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/bmw-330i-2006-02-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "bmw-330i-2006-03",
+      "label": "Vista 03",
+      "alt": "BMW 330i 2006: vista 03",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/bmw-330i-2006-03-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/bmw-330i-2006-03-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/bmw-330i-2006-03-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    }
+  ],
+  "bmw-x1-2019": [
+    {
+      "id": "bmw-x1-2019-01",
+      "label": "Vista 01",
+      "alt": "BMW X1 2019: vista 01",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/bmw-x1-2019-01-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/bmw-x1-2019-01-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/bmw-x1-2019-01-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "bmw-x1-2019-02",
+      "label": "Vista 02",
+      "alt": "BMW X1 2019: vista 02",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/bmw-x1-2019-02-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/bmw-x1-2019-02-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/bmw-x1-2019-02-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "bmw-x1-2019-03",
+      "label": "Vista 03",
+      "alt": "BMW X1 2019: vista 03",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/bmw-x1-2019-03-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/bmw-x1-2019-03-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/bmw-x1-2019-03-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    }
+  ],
+  "fiat-punto-evo-2013": [
+    {
+      "id": "fiat-punto-evo-2013-01",
+      "label": "Vista 01",
+      "alt": "Fiat Punto Evo 2013: vista 01",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/fiat-punto-evo-2013-01-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/fiat-punto-evo-2013-01-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/fiat-punto-evo-2013-01-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "fiat-punto-evo-2013-02",
+      "label": "Vista 02",
+      "alt": "Fiat Punto Evo 2013: vista 02",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/fiat-punto-evo-2013-02-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/fiat-punto-evo-2013-02-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/fiat-punto-evo-2013-02-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "fiat-punto-evo-2013-03",
+      "label": "Vista 03",
+      "alt": "Fiat Punto Evo 2013: vista 03",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/fiat-punto-evo-2013-03-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/fiat-punto-evo-2013-03-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/fiat-punto-evo-2013-03-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    }
+  ],
+  "ford-explorer-xlt-2014": [
+    {
+      "id": "ford-explorer-xlt-2014-01",
+      "label": "Vista 01",
+      "alt": "Ford Explorer XLT 2014: vista 01",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/ford-explorer-xlt-2014-01-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/ford-explorer-xlt-2014-01-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/ford-explorer-xlt-2014-01-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "ford-explorer-xlt-2014-02",
+      "label": "Vista 02",
+      "alt": "Ford Explorer XLT 2014: vista 02",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/ford-explorer-xlt-2014-02-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/ford-explorer-xlt-2014-02-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/ford-explorer-xlt-2014-02-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "ford-explorer-xlt-2014-03",
+      "label": "Vista 03",
+      "alt": "Ford Explorer XLT 2014: vista 03",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/ford-explorer-xlt-2014-03-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/ford-explorer-xlt-2014-03-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/ford-explorer-xlt-2014-03-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    }
+  ],
+  "ford-explorer-xlt-2016": [
+    {
+      "id": "ford-explorer-xlt-2016-01",
+      "label": "Vista 01",
+      "alt": "Ford Explorer XLT 2016: vista 01",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/ford-explorer-xlt-2016-01-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/ford-explorer-xlt-2016-01-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/ford-explorer-xlt-2016-01-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "ford-explorer-xlt-2016-02",
+      "label": "Vista 02",
+      "alt": "Ford Explorer XLT 2016: vista 02",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/ford-explorer-xlt-2016-02-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/ford-explorer-xlt-2016-02-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/ford-explorer-xlt-2016-02-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "ford-explorer-xlt-2016-03",
+      "label": "Vista 03",
+      "alt": "Ford Explorer XLT 2016: vista 03",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/ford-explorer-xlt-2016-03-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/ford-explorer-xlt-2016-03-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/ford-explorer-xlt-2016-03-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    }
+  ],
+  "hyundai-accent-gl-2015": [
+    {
+      "id": "hyundai-accent-gl-2015-01",
+      "label": "Vista 01",
+      "alt": "Hyundai Accent GL 2015: vista 01",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/hyundai-accent-gl-2015-01-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/hyundai-accent-gl-2015-01-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/hyundai-accent-gl-2015-01-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "hyundai-accent-gl-2015-02",
+      "label": "Vista 02",
+      "alt": "Hyundai Accent GL 2015: vista 02",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/hyundai-accent-gl-2015-02-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/hyundai-accent-gl-2015-02-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/hyundai-accent-gl-2015-02-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "hyundai-accent-gl-2015-03",
+      "label": "Vista 03",
+      "alt": "Hyundai Accent GL 2015: vista 03",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/hyundai-accent-gl-2015-03-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/hyundai-accent-gl-2015-03-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/hyundai-accent-gl-2015-03-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    }
+  ],
+  "hyundai-santa-fe-gls-2019": [
+    {
+      "id": "hyundai-santa-fe-gls-2019-01",
+      "label": "Vista 01",
+      "alt": "Hyundai Santa Fe GLS 2019: vista 01",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/hyundai-santa-fe-gls-2019-01-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/hyundai-santa-fe-gls-2019-01-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/hyundai-santa-fe-gls-2019-01-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "hyundai-santa-fe-gls-2019-02",
+      "label": "Vista 02",
+      "alt": "Hyundai Santa Fe GLS 2019: vista 02",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/hyundai-santa-fe-gls-2019-02-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/hyundai-santa-fe-gls-2019-02-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/hyundai-santa-fe-gls-2019-02-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "hyundai-santa-fe-gls-2019-03",
+      "label": "Vista 03",
+      "alt": "Hyundai Santa Fe GLS 2019: vista 03",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/hyundai-santa-fe-gls-2019-03-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/hyundai-santa-fe-gls-2019-03-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/hyundai-santa-fe-gls-2019-03-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    }
+  ],
+  "hyundai-veloster-2013": [
+    {
+      "id": "hyundai-veloster-2013-01",
+      "label": "Vista 01",
+      "alt": "Hyundai Veloster 2013: vista 01",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/hyundai-veloster-2013-01-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/hyundai-veloster-2013-01-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/hyundai-veloster-2013-01-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "hyundai-veloster-2013-02",
+      "label": "Vista 02",
+      "alt": "Hyundai Veloster 2013: vista 02",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/hyundai-veloster-2013-02-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/hyundai-veloster-2013-02-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/hyundai-veloster-2013-02-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "hyundai-veloster-2013-03",
+      "label": "Vista 03",
+      "alt": "Hyundai Veloster 2013: vista 03",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/hyundai-veloster-2013-03-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/hyundai-veloster-2013-03-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/hyundai-veloster-2013-03-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    }
+  ],
+  "isuzu-qkr-2022": [
+    {
+      "id": "isuzu-qkr-2022-01",
+      "label": "Vista 01",
+      "alt": "Isuzu QKR 2022: vista 01",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/isuzu-qkr-2022-01-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/isuzu-qkr-2022-01-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/isuzu-qkr-2022-01-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "isuzu-qkr-2022-02",
+      "label": "Vista 02",
+      "alt": "Isuzu QKR 2022: vista 02",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/isuzu-qkr-2022-02-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/isuzu-qkr-2022-02-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/isuzu-qkr-2022-02-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "isuzu-qkr-2022-03",
+      "label": "Vista 03",
+      "alt": "Isuzu QKR 2022: vista 03",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/isuzu-qkr-2022-03-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/isuzu-qkr-2022-03-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/isuzu-qkr-2022-03-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    }
+  ],
+  "kia-sorento-2020": [
+    {
+      "id": "kia-sorento-2020-01",
+      "label": "Vista 01",
+      "alt": "Kia Sorento 2020: vista 01",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/kia-sorento-2020-01-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/kia-sorento-2020-01-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/kia-sorento-2020-01-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "kia-sorento-2020-02",
+      "label": "Vista 02",
+      "alt": "Kia Sorento 2020: vista 02",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/kia-sorento-2020-02-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/kia-sorento-2020-02-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/kia-sorento-2020-02-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "kia-sorento-2020-03",
+      "label": "Vista 03",
+      "alt": "Kia Sorento 2020: vista 03",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/kia-sorento-2020-03-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/kia-sorento-2020-03-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/kia-sorento-2020-03-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    }
+  ],
+  "kia-sportage-2016": [
+    {
+      "id": "kia-sportage-2016-01",
+      "label": "Vista 01",
+      "alt": "Kia Sportage 2016: vista 01",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/kia-sportage-2016-01-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/kia-sportage-2016-01-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/kia-sportage-2016-01-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "kia-sportage-2016-02",
+      "label": "Vista 02",
+      "alt": "Kia Sportage 2016: vista 02",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/kia-sportage-2016-02-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/kia-sportage-2016-02-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/kia-sportage-2016-02-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "kia-sportage-2016-03",
+      "label": "Vista 03",
+      "alt": "Kia Sportage 2016: vista 03",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/kia-sportage-2016-03-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/kia-sportage-2016-03-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/kia-sportage-2016-03-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    }
+  ],
+  "land-rover-discovery-3-se-2008": [
+    {
+      "id": "land-rover-discovery-3-se-2008-01",
+      "label": "Vista 01",
+      "alt": "Land Rover Discovery 3 SE 2008: vista 01",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/land-rover-discovery-3-se-2008-01-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/land-rover-discovery-3-se-2008-01-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/land-rover-discovery-3-se-2008-01-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "land-rover-discovery-3-se-2008-02",
+      "label": "Vista 02",
+      "alt": "Land Rover Discovery 3 SE 2008: vista 02",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/land-rover-discovery-3-se-2008-02-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/land-rover-discovery-3-se-2008-02-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/land-rover-discovery-3-se-2008-02-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "land-rover-discovery-3-se-2008-03",
+      "label": "Vista 03",
+      "alt": "Land Rover Discovery 3 SE 2008: vista 03",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/land-rover-discovery-3-se-2008-03-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/land-rover-discovery-3-se-2008-03-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/land-rover-discovery-3-se-2008-03-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    }
+  ],
+  "land-rover-evoque-pure-tech-2019": [
+    {
+      "id": "land-rover-evoque-pure-tech-2019-01",
+      "label": "Vista 01",
+      "alt": "Land Rover Evoque Pure Tech 2019: vista 01",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/land-rover-evoque-pure-tech-2019-01-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/land-rover-evoque-pure-tech-2019-01-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/land-rover-evoque-pure-tech-2019-01-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "land-rover-evoque-pure-tech-2019-02",
+      "label": "Vista 02",
+      "alt": "Land Rover Evoque Pure Tech 2019: vista 02",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/land-rover-evoque-pure-tech-2019-02-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/land-rover-evoque-pure-tech-2019-02-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/land-rover-evoque-pure-tech-2019-02-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "land-rover-evoque-pure-tech-2019-03",
+      "label": "Vista 03",
+      "alt": "Land Rover Evoque Pure Tech 2019: vista 03",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/land-rover-evoque-pure-tech-2019-03-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/land-rover-evoque-pure-tech-2019-03-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/land-rover-evoque-pure-tech-2019-03-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    }
+  ],
+  "mercedes-benz-ml350-2015": [
+    {
+      "id": "mercedes-benz-ml350-2015-01",
+      "label": "Vista 01",
+      "alt": "Mercedes-Benz ML350 2015: vista 01",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/mercedes-benz-ml350-2015-01-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/mercedes-benz-ml350-2015-01-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/mercedes-benz-ml350-2015-01-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "mercedes-benz-ml350-2015-02",
+      "label": "Vista 02",
+      "alt": "Mercedes-Benz ML350 2015: vista 02",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/mercedes-benz-ml350-2015-02-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/mercedes-benz-ml350-2015-02-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/mercedes-benz-ml350-2015-02-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "mercedes-benz-ml350-2015-03",
+      "label": "Vista 03",
+      "alt": "Mercedes-Benz ML350 2015: vista 03",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/mercedes-benz-ml350-2015-03-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/mercedes-benz-ml350-2015-03-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/mercedes-benz-ml350-2015-03-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    }
+  ],
+  "mini-cooper-2019": [
+    {
+      "id": "mini-cooper-2019-01",
+      "label": "Vista 01",
+      "alt": "MINI Cooper 2019: vista 01",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/mini-cooper-2019-01-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/mini-cooper-2019-01-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/mini-cooper-2019-01-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "mini-cooper-2019-02",
+      "label": "Vista 02",
+      "alt": "MINI Cooper 2019: vista 02",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/mini-cooper-2019-02-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/mini-cooper-2019-02-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/mini-cooper-2019-02-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "mini-cooper-2019-03",
+      "label": "Vista 03",
+      "alt": "MINI Cooper 2019: vista 03",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/mini-cooper-2019-03-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/mini-cooper-2019-03-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/mini-cooper-2019-03-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    }
+  ],
+  "mitsubishi-outlander-2015": [
+    {
+      "id": "mitsubishi-outlander-2015-01",
+      "label": "Vista 01",
+      "alt": "Mitsubishi Outlander 2015: vista 01",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/mitsubishi-outlander-2015-01-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/mitsubishi-outlander-2015-01-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/mitsubishi-outlander-2015-01-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "mitsubishi-outlander-2015-02",
+      "label": "Vista 02",
+      "alt": "Mitsubishi Outlander 2015: vista 02",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/mitsubishi-outlander-2015-02-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/mitsubishi-outlander-2015-02-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/mitsubishi-outlander-2015-02-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "mitsubishi-outlander-2015-03",
+      "label": "Vista 03",
+      "alt": "Mitsubishi Outlander 2015: vista 03",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/mitsubishi-outlander-2015-03-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/mitsubishi-outlander-2015-03-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/mitsubishi-outlander-2015-03-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    }
+  ],
+  "nissan-qashqai-2020": [
+    {
+      "id": "nissan-qashqai-2020-01",
+      "label": "Vista 01",
+      "alt": "Nissan Qashqai 2020: vista 01",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/nissan-qashqai-2020-01-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/nissan-qashqai-2020-01-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/nissan-qashqai-2020-01-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "nissan-qashqai-2020-02",
+      "label": "Vista 02",
+      "alt": "Nissan Qashqai 2020: vista 02",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/nissan-qashqai-2020-02-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/nissan-qashqai-2020-02-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/nissan-qashqai-2020-02-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "nissan-qashqai-2020-03",
+      "label": "Vista 03",
+      "alt": "Nissan Qashqai 2020: vista 03",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/nissan-qashqai-2020-03-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/nissan-qashqai-2020-03-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/nissan-qashqai-2020-03-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    }
+  ],
+  "tesla-model-3-2021": [
+    {
+      "id": "tesla-model-3-2021-01",
+      "label": "Vista 01",
+      "alt": "Tesla Model 3 2021: vista 01",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/tesla-model-3-2021-01-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/tesla-model-3-2021-01-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/tesla-model-3-2021-01-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "tesla-model-3-2021-02",
+      "label": "Vista 02",
+      "alt": "Tesla Model 3 2021: vista 02",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/tesla-model-3-2021-02-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/tesla-model-3-2021-02-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/tesla-model-3-2021-02-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "tesla-model-3-2021-03",
+      "label": "Vista 03",
+      "alt": "Tesla Model 3 2021: vista 03",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/tesla-model-3-2021-03-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/tesla-model-3-2021-03-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/tesla-model-3-2021-03-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    }
+  ],
+  "toyota-bz3-2025": [
+    {
+      "id": "toyota-bz3-2025-01",
+      "label": "Vista 01",
+      "alt": "Toyota BZ3 2025: vista 01",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/toyota-bz3-2025-01-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-bz3-2025-01-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-bz3-2025-01-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "toyota-bz3-2025-02",
+      "label": "Vista 02",
+      "alt": "Toyota BZ3 2025: vista 02",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/toyota-bz3-2025-02-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-bz3-2025-02-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-bz3-2025-02-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "toyota-bz3-2025-03",
+      "label": "Vista 03",
+      "alt": "Toyota BZ3 2025: vista 03",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/toyota-bz3-2025-03-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-bz3-2025-03-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-bz3-2025-03-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    }
+  ],
+  "toyota-hiace-2025": [
+    {
+      "id": "toyota-hiace-2025-01",
+      "label": "Vista 01",
+      "alt": "Toyota Hiace 2025: vista 01",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/toyota-hiace-2025-01-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-hiace-2025-01-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-hiace-2025-01-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "toyota-hiace-2025-02",
+      "label": "Vista 02",
+      "alt": "Toyota Hiace 2025: vista 02",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/toyota-hiace-2025-02-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-hiace-2025-02-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-hiace-2025-02-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "toyota-hiace-2025-03",
+      "label": "Vista 03",
+      "alt": "Toyota Hiace 2025: vista 03",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/toyota-hiace-2025-03-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-hiace-2025-03-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-hiace-2025-03-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    }
+  ],
+  "toyota-hilux-2013": [
+    {
+      "id": "toyota-hilux-2013-01",
+      "label": "Vista 01",
+      "alt": "Toyota Hilux 2013: vista 01",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/toyota-hilux-2013-01-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-hilux-2013-01-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-hilux-2013-01-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "toyota-hilux-2013-02",
+      "label": "Vista 02",
+      "alt": "Toyota Hilux 2013: vista 02",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/toyota-hilux-2013-02-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-hilux-2013-02-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-hilux-2013-02-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "toyota-hilux-2013-03",
+      "label": "Vista 03",
+      "alt": "Toyota Hilux 2013: vista 03",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/toyota-hilux-2013-03-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-hilux-2013-03-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/toyota-hilux-2013-03-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    }
+  ],
+  "volkswagen-tiguan-2018": [
+    {
+      "id": "volkswagen-tiguan-2018-01",
+      "label": "Vista 01",
+      "alt": "Volkswagen Tiguan 2018: vista 01",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/volkswagen-tiguan-2018-01-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/volkswagen-tiguan-2018-01-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/volkswagen-tiguan-2018-01-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "volkswagen-tiguan-2018-02",
+      "label": "Vista 02",
+      "alt": "Volkswagen Tiguan 2018: vista 02",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/volkswagen-tiguan-2018-02-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/volkswagen-tiguan-2018-02-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/volkswagen-tiguan-2018-02-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "volkswagen-tiguan-2018-03",
+      "label": "Vista 03",
+      "alt": "Volkswagen Tiguan 2018: vista 03",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/volkswagen-tiguan-2018-03-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/volkswagen-tiguan-2018-03-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/volkswagen-tiguan-2018-03-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    }
+  ],
+  "volvo-c30-2013": [
+    {
+      "id": "volvo-c30-2013-01",
+      "label": "Vista 01",
+      "alt": "Volvo C30 2013: vista 01",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/volvo-c30-2013-01-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/volvo-c30-2013-01-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/volvo-c30-2013-01-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "volvo-c30-2013-02",
+      "label": "Vista 02",
+      "alt": "Volvo C30 2013: vista 02",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/volvo-c30-2013-02-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/volvo-c30-2013-02-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/volvo-c30-2013-02-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    },
+    {
+      "id": "volvo-c30-2013-03",
+      "label": "Vista 03",
+      "alt": "Volvo C30 2013: vista 03",
+      "variants": [
+        {
+          "src": "/jarcar-v3/vehicles/volvo-c30-2013-03-360.webp",
+          "width": 360,
+          "height": 270
+        },
+        {
+          "src": "/jarcar-v3/vehicles/volvo-c30-2013-03-720.webp",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "src": "/jarcar-v3/vehicles/volvo-c30-2013-03-1280.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ]
+    }
+  ]
+}

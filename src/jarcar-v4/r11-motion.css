@@ -1,0 +1,9 @@
+/* R11/P0 — stop hiding content while waiting for scroll.
+   WAAPI in Shell handles transitions only after visibility is confirmed. */
+.r9-reveal, .r9-reveal.r9-visible { opacity: 1; transform: none; transition: none; }
+@media (prefers-reduced-motion: reduce) {
+  html:focus-within { scroll-behavior: auto; }
+  .jx-hero-photo, .jx-worlds-photo, .jx-hero-photo .jp-picture img,
+  .jx-worlds-photo .jp-picture img, .jd-main-picture img,
+  .r9-quick-dialog[open] { animation: none !important; transition-duration: 0.01ms !important; }
+}
