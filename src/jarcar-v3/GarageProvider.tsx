@@ -24,6 +24,8 @@ function read(): State {
 function reduce(state: State, action: Action): State {
   if (action.type === 'dismissNotice') return { ...state, notice: '' };
   if (action.type === 'clearSaved') return { ...state, savedIds: [], notice: 'Se vació la selección de guardados.' };
+  // TypeScript must verify this action carries an id before destructuring.
+  if (!('id' in action)) return state;
   const { type, id } = action;
   if (type === 'saved') {
     const selected = state.savedIds.includes(id);
